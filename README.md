@@ -10,7 +10,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 #Tasks:
 
-1Select Your Operating System (OS):
+1. Select Your Operating System (OS):
 
 Chosen OS: Windows 11
 
@@ -20,7 +20,7 @@ Installation Completed.
 
 Install a Text Editor or Integrated Development Environment (IDE):
 
-2.Chosen IDE: Visual Studio Code
+2. Chosen IDE: Visual Studio Code
 
 Download and Install: Visual Studio Code
 
@@ -33,13 +33,13 @@ Set Up Version Control System:
 sudo apt-get install git
 
 
-5. Configure Git:
+ Configure Git:
    
 git config --global user.name "Your Name"
 
 git config --global user.email "youremail@example.com"
 
-7. Create a GitHub account: GitHub
+Create a GitHub account: GitHub
    
 Initialize a Git repository:
 
@@ -56,7 +56,7 @@ git push -u origin master
 Configuration and initial commit completed.
 
 
-9. Install Necessary Programming Languages and Runtimes:
+4. Install Necessary Programming Languages and Runtimes:
 
 Install Python:
 
@@ -70,7 +70,7 @@ Python installation and verification completed.
 
 Install Package Managers:
 
-7. Install pip:
+5. Install pip:
    
 sudo apt-get install python3-pip
 
@@ -82,13 +82,13 @@ pip installation and verification completed.
 
 Configure a Database (MySQL):
 
-9. Download and Install: MySQL
+6. Download and Install: MySQL
     
 MySQL installation completed.
 
 Set Up Development Environments and Virtualization (Optional):
 
-11. Install Docker:
+7. Install Docker:
     
 Download and Install: Docker
 
@@ -100,7 +100,7 @@ Docker installation and verification completed.
 
 Explore Extensions and Plugins:
 
-11. Extensions for Visual Studio Code:
+8. Extensions for Visual Studio Code:
     
 Code runner
 
@@ -113,14 +113,13 @@ ESLint
 Docker
 
 dart
-
-12. Extensions installed and configured.
+Extensions installed and configured.
     
-Document Your Setup:
+9. Document Your Setup:
 
 I installed during the live class so i did not document my set up.but i followed all the instruction and all my installations are working
 
-Conclusion:
+10. Conclusion:
 
 This assignment has taught me how to set up my coding environment. i have learn many installation ways that i feel will be useful in my future.
 

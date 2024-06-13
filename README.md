@@ -23,7 +23,7 @@ Installation Completed.
 Set Up Version Control System:
 
 3. Install Git:
-
+sudo apt-get install git
 
 
 4. Configure Git:
@@ -61,13 +61,15 @@ MySQL installation completed.
 Set Up Development Environments and Virtualization (Optional):
 
 9. Install Docker:
+    
 Download and Install: Docker
 Verify Installation:
 docker --version
 Docker installation and verification completed.
 Explore Extensions and Plugins:
 
-10. Extensions for Visual Studio Code:
+11. Extensions for Visual Studio Code:
+    
 Code runner
 Python
 GitLens
@@ -76,11 +78,13 @@ ESLint
 Docker
 dart
 
-11. Extensions installed and configured.
-Document Your Setup: 
+12. Extensions installed and configured.
+Document Your Setup:
+
 I installed during the live class so i did not document my set up.but i followed all the instruction and all my installations are working
 
-Conclusion
+Conclusion:
+
 This assignment has taught me how to set up my coding environment. i have learn many installation ways that i feel will be useful in my future.
 
 #Evaluation Criteria:**

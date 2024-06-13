@@ -10,39 +10,78 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 #Tasks:
 
-1. Select Your Operating System (OS):
-   Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
+1Select Your Operating System (OS):
 
-2. Install a Text Editor or Integrated Development Environment (IDE):
-   Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
-3. Set Up Version Control System:
-   Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+Chosen OS: Windows 11
+Download and Install: Windows 11
+Installation Completed.
+Install a Text Editor or Integrated Development Environment (IDE):
 
-4. Install Necessary Programming Languages and Runtimes:
-  Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+2.Chosen IDE: Visual Studio Code
+Download and Install: Visual Studio Code
+Installation Completed.
+Set Up Version Control System:
 
-5. Install Package Managers:
-   If applicable, install package managers like pip (Python).
+3. Install Git:
 
-6. Configure a Database (MySQL):
-   Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 
-7. Set Up Development Environments and Virtualization (Optional):
-   Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
-8. Explore Extensions and Plugins:
-   Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
+4. Configure Git:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
 
-9. Document Your Setup:
-    Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+5. Create a GitHub account: GitHub
+Initialize a Git repository:
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/yourusername/your-repo.git
+git push -u origin master
+Configuration and initial commit completed.
 
-#Deliverables:
-- Document detailing the setup process with step-by-step instructions and screenshots where necessary.
-- A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
-- A reflection on the challenges faced during setup and strategies employed to overcome them.
 
-#Submission:
-Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
+6. Install Necessary Programming Languages and Runtimes:
+
+Install Python:
+Download and Install: Python
+Verify Installation:
+python --version
+Python installation and verification completed.
+Install Package Managers:
+
+7. Install pip:
+sudo apt-get install python3-pip
+Verify Installation:
+pip --version
+pip installation and verification completed.
+Configure a Database (MySQL):
+
+8. Download and Install: MySQL
+MySQL installation completed.
+Set Up Development Environments and Virtualization (Optional):
+
+9. Install Docker:
+Download and Install: Docker
+Verify Installation:
+docker --version
+Docker installation and verification completed.
+Explore Extensions and Plugins:
+
+10. Extensions for Visual Studio Code:
+Code runner
+Python
+GitLens
+Prettier - Code formatter
+ESLint
+Docker
+dart
+
+11. Extensions installed and configured.
+Document Your Setup: 
+I installed during the live class so i did not document my set up.but i followed all the instruction and all my installations are working
+
+Conclusion
+This assignment has taught me how to set up my coding environment. i have learn many installation ways that i feel will be useful in my future.
 
 #Evaluation Criteria:**
 - Completeness and accuracy of setup documentation.

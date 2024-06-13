@@ -13,72 +13,109 @@ This assignment aims to familiarize you with the tools and configurations necess
 1Select Your Operating System (OS):
 
 Chosen OS: Windows 11
+
 Download and Install: Windows 11
+
 Installation Completed.
+
 Install a Text Editor or Integrated Development Environment (IDE):
 
 2.Chosen IDE: Visual Studio Code
+
 Download and Install: Visual Studio Code
+
 Installation Completed.
+
 Set Up Version Control System:
 
 3. Install Git:
+   
 sudo apt-get install git
 
 
-4. Configure Git:
+5. Configure Git:
+   
 git config --global user.name "Your Name"
+
 git config --global user.email "youremail@example.com"
 
-5. Create a GitHub account: GitHub
+7. Create a GitHub account: GitHub
+   
 Initialize a Git repository:
+
 git init
+
 git add .
+
 git commit -m "Initial commit"
+
 git remote add origin https://github.com/yourusername/your-repo.git
+
 git push -u origin master
+
 Configuration and initial commit completed.
 
 
-6. Install Necessary Programming Languages and Runtimes:
+9. Install Necessary Programming Languages and Runtimes:
 
 Install Python:
+
 Download and Install: Python
+
 Verify Installation:
+
 python --version
+
 Python installation and verification completed.
+
 Install Package Managers:
 
 7. Install pip:
+   
 sudo apt-get install python3-pip
+
 Verify Installation:
+
 pip --version
+
 pip installation and verification completed.
+
 Configure a Database (MySQL):
 
-8. Download and Install: MySQL
+9. Download and Install: MySQL
+    
 MySQL installation completed.
+
 Set Up Development Environments and Virtualization (Optional):
 
-9. Install Docker:
+11. Install Docker:
     
 Download and Install: Docker
+
 Verify Installation:
+
 docker --version
+
 Docker installation and verification completed.
+
 Explore Extensions and Plugins:
 
 11. Extensions for Visual Studio Code:
     
 Code runner
+
 Python
-GitLens
+
 Prettier - Code formatter
+
 ESLint
+
 Docker
+
 dart
 
 12. Extensions installed and configured.
+    
 Document Your Setup:
 
 I installed during the live class so i did not document my set up.but i followed all the instruction and all my installations are working

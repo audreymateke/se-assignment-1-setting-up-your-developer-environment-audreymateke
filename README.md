@@ -116,8 +116,11 @@ dart
 Extensions installed and configured.
     
 9. Document Your Setup:
+    
+ -link to my documentation:
 
-I installed during the live class so i did not document my set up.but i followed all the instruction and all my installations are working
+     https://docs.google.com/document/d/1pABbHtoAa02sQDir32LD1z1692qJ4QeX9DHV_gmRmVE/edit?usp=sharing
+   
 
 10. Conclusion:
 

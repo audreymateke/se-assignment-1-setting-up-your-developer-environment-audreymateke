@@ -16,42 +16,47 @@ Chosen OS: Windows 11
 
 Download and Install: Windows 11
 
-Installation Completed.
+- Installation Completed.
 
-Install a Text Editor or Integrated Development Environment (IDE):
+ Install a Text Editor or Integrated Development Environment (IDE):
 
 2. Chosen IDE: Visual Studio Code
 
-Download and Install: Visual Studio Code
+Download and Install:
 
-Installation Completed.
+      Visual Studio Code
 
-Set Up Version Control System:
+    Installation Completed.
+
+    Set Up Version Control System:
 
 3. Install Git:
    
-sudo apt-get install git
+   sudo apt-get install git
 
 
- Configure Git:
+ -Configure Git:
    
-git config --global user.name "Your Name"
+     git config --global user.name "Your Name"
 
-git config --global user.email "youremail@example.com"
+    git config --global user.email "youremail@example.com"
 
-Create a GitHub account: GitHub
+-Create a GitHub account: 
+
+    GitHub
    
 Initialize a Git repository:
 
-git init
 
-git add .
+    git init
 
-git commit -m "Initial commit"
+    git add .
 
-git remote add origin https://github.com/yourusername/your-repo.git
+    git commit -m "Initial commit"
 
-git push -u origin master
+    git remote add origin https://github.com/yourusername/your-repo.git
+
+    git push -u origin master
 
 Configuration and initial commit completed.
 
@@ -60,59 +65,62 @@ Configuration and initial commit completed.
 
 Install Python:
 
-Download and Install: Python
+   Download and Install:
+   
+       Python
 
-Verify Installation:
+  Verify Installation:
+  
 
-python --version
+     python --version
 
-Python installation and verification completed.
+ Python installation and verification completed.
 
 Install Package Managers:
 
 5. Install pip:
    
-sudo apt-get install python3-pip
+       sudo apt-get install python3-pip
 
 Verify Installation:
 
-pip --version
+    pip --version
 
-pip installation and verification completed.
+ pip installation and verification completed.
 
 Configure a Database (MySQL):
 
 6. Download and Install: MySQL
     
-MySQL installation completed.
+       MySQL installation completed.
 
 Set Up Development Environments and Virtualization (Optional):
 
 7. Install Docker:
     
-Download and Install: Docker
+Download and Install:  Docker
 
 Verify Installation:
 
-docker --version
+    docker --version
 
-Docker installation and verification completed.
+ Docker installation and verification completed.
 
 Explore Extensions and Plugins:
 
 8. Extensions for Visual Studio Code:
     
-Code runner
+        Code runner
 
-Python
+        Python
 
-Prettier - Code formatter
+       Prettier - Code formatter
 
-ESLint
+       ESLint
 
-Docker
+       Docker
 
-dart
+       dart
 Extensions installed and configured.
     
 9. Document Your Setup:

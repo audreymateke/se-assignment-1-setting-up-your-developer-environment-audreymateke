@@ -22,13 +22,11 @@ Download and Install: Windows 11
 
 2. Chosen IDE: Visual Studio Code
 
-Download and Install:
+    Download and Install: Visual Studio Code
 
-      Visual Studio Code
+   Installation Completed.
 
-    Installation Completed.
-
-    Set Up Version Control System:
+Set Up Version Control System:
 
 3. Install Git:
    
@@ -41,9 +39,7 @@ Download and Install:
 
     git config --global user.email "youremail@example.com"
 
--Create a GitHub account: 
-
-    GitHub
+-Create a GitHub account: GitHub
    
 Initialize a Git repository:
 
